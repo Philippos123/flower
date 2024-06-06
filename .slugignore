@@ -4,3 +4,6 @@ inputs/
 /test
 /train
 /validation
+altair
+keras
+protobuf
