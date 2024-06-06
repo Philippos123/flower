@@ -8,4 +8,3 @@ node_modules/
 .github/
 cloudinary_python.txt
 kaggle.json
-tensorflow_cpu-2.13.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
