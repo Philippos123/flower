@@ -1,2 +1,6 @@
 inputs/
 /app/
+/images/
+/test
+/train
+/validation
