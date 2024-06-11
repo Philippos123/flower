@@ -2,6 +2,7 @@ import streamlit as st
 from PIL import Image
 import numpy as np
 import pandas as pd
+import tensorflow as tf
 
 from src.data_management import download_dataframe_as_csv
 from src.machine_learning.predictive_analysis import (
@@ -12,7 +13,7 @@ from src.machine_learning.predictive_analysis import (
 
 def page_mildew_detector_body():
     st.info(
-        f"* The client is interested in telling whether a given cell contains a malaria parasite "
+        f"* The client is interested in telling whether a given leaf contains powder mildew "
         f"or not."
         )
 
