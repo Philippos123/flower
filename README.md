@@ -49,7 +49,7 @@ We deployed our project to heroku.
 3. Set europe and a name 
 4. Change the stack from Heroku-22 to Heroku-20 
 5. Then we went back in the terminal used the "Git push heroku main" command.
-6. Deployed.
+6. Deployed. https://blooming-garden-64545-53ac3eb0c98d.herokuapp.com/
 
 ## Bugs 
 When we were going to deploy to heroku we got an error that told us to downgrade our protobuf to 3.20.0 or belov so we did that. Because we downgraded our protobuf all the other programs were incompatible so we went in to the walkthrough project with the malaria infected blood cells and took the req.txt from there and then it worked to deploy it to heroku. 
